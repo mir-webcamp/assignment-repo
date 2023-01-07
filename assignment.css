@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+/* header style*/
+.header{
+    font-size: 800;
+    font-weight: 45px;
+    background-image: url(project/images/banner/banner2.png);
+}
+header h1{
+    margin-bottom: 0;
+}
+.header p{
+    margin-top: 10px;
+}
+header button{
+    margin-top: 10px;
+    border-radius: 5px;
+    height: 30px;
+}
+header button{
+    color: aliceblue;
+    background-color: #f06d0f;
+    border: 0;
+}
